@@ -1,0 +1,9 @@
+cookie:
+  expiry_days: 30
+  key: some_key_here
+  name: my_cookie
+credentials:
+  usernames:
+    exp:
+      name: exp
+      password: $2b$12$/WbArlvKnSVo6y2Xw0RsqeBT06x8gu7ni7JqTAJyeDjr7w2NP9QMq
