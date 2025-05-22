@@ -5,7 +5,6 @@ A compassionate AI-powered mental health support application built with Streamli
 ![AI Psychologist Demo](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28.0+-red)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## ✨ Features
 
@@ -30,14 +29,14 @@ A compassionate AI-powered mental health support application built with Streamli
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-psychologist.git
-   cd ai-psychologist
+   git clone https://github.com/m1010nish/Generative-AI-Projects.git
+   cd Generative-AI-Projects/AI-Psychologist
    ```
 
 2. **Create a virtual environment**
    ```bash
-   python -m venv mentalAI
-   source mentalAI/bin/activate  # On Windows: mentalAI\Scripts\activate
+   conda create --name AI-Psychologist
+   conda activate AI-Psychologist
    ```
 
 3. **Install dependencies**
@@ -231,18 +230,15 @@ We welcome contributions! Here's how you can help:
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/ai-psychologist.git
-cd ai-psychologist
+git clone https://github.com/m1010nish/Generative-AI-Projects.git
+cd Generative-AI-Projects/AI-Psychologist
 
 # Create development environment
-python -m venv dev-env
-source dev-env/bin/activate  # On Windows: dev-env\Scripts\activate
+conda create --name AI-Psychologist
+conda activate AI-Psychologist
 
 # Install in development mode
 pip install -r requirements.txt
-
-# Run tests (if available)
-python -m pytest tests/
 
 # Start development server
 streamlit run app.py
@@ -256,12 +252,8 @@ streamlit run app.py
 - [ ] **Crisis Detection**: Enhanced crisis detection and resource linking
 - [ ] **Multi-language Support**: Support for multiple languages
 - [ ] **Voice Integration**: Speech-to-text and text-to-speech
-- [ ] **Mobile App**: React Native mobile application
 - [ ] **Therapist Dashboard**: Optional professional oversight features
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -272,9 +264,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-psychologist/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ai-psychologist/discussions)
-- **Email**: your.email@example.com
+- **Issues**: [GitHub Issues](https://github.com/m1010nish/Generative-AI-Projects/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/m1010nish/Generative-AI-Projects/discussions)
+- **Email**: manishsinghjnv11@gmail.com
 
 ## 🌟 Star History
 
